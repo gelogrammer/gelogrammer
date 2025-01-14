@@ -30,56 +30,67 @@ Passionate Full Stack Developer with a strong focus on creating scalable and hig
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
-```typescript
-const frontendSkills = {
-  frameworks: ['Angular 17+', 'Bootstrap', 'TailwindCSS'],
-  languages: ['TypeScript', 'JavaScript (ES6+)', 'HTML5'],
-  styling: ['SASS/SCSS', 'CSS3'],
-  concepts: [
-    'Responsive Design',
-    'SPA',
-    'PWA',
-    'Web Performance',
-    'Standalone Components',
-    'Signals & RxJS',
-    'Deferred Loading'
-  ],
-  design: ['UI/UX Design', 'Responsive Layouts', 'User-Centered Design']
-}
-```
+#### Core Technologies
+![Angular](https://img.shields.io/badge/Angular%2017+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Styling & UI
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Expertise
+- ⚡ Standalone Components & Signals
+- 🚀 Performance Optimization & PWA
+- 🎨 Responsive & User-Centered Design
+- 📱 Mobile-First Development
 
 ### ⚡ Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql,postgres,firebase,supabase" alt="Backend Skills" />
 </p>
 
-```typescript
-const backendSkills = {
-  frameworks: ['Laravel', 'Express.js'],
-  languages: ['PHP', 'JavaScript/Node.js', 'Python'],
-  databases: {
-    sql: ['MySQL', 'PostgreSQL'],
-    nosql: ['Supabase', 'Firebase'],
-  },
-  api: ['RESTful', 'GraphQL', 'Real-time Subscriptions'],
-  tools: ['Postman', 'Swagger', 'Database Design']
-}
-```
+#### Core Technologies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### API & Tools
+- 🔄 RESTful & GraphQL APIs
+- ⚡ Real-time Subscriptions
+- 📊 Database Design & Optimization
+- 🔒 Secure Authentication Systems
 
 ### 🔧 DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman" alt="DevOps Skills" />
 </p>
 
-```typescript
-const systemSkills = {
-  versionControl: ['Git', 'GitHub', 'GitLab'],
-  networking: ['TCP/IP', 'HTTP/HTTPS', 'DNS'],
-  debugging: ['Chrome DevTools', 'Error Tracking', 'Performance Profiling'],
-  maintenance: ['Computer Systems Servicing', 'System Optimization'],
-  deployment: ['CI/CD', 'Docker', 'Cloud Platforms']
-}
-```
+#### Version Control & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Development Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+#### Additional Skills
+- 🌐 Network Protocol Expertise
+- 🔍 Performance Profiling
+- 🛠️ System Optimization
+- 📊 Error Tracking & Monitoring
 
 </div>
 
