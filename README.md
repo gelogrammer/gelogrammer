@@ -11,15 +11,10 @@
     <a href="mailto:angelojohn0987@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://drive.google.com/drive/folders/1vQVLX5lE1uNZWEqYS2F8DqY5N9lQxQiU?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
-    </a>
     <a href="https://www.google.com/maps/place/Legazpi+City" target="_blank">
       <img src="https://img.shields.io/badge/Legazpi%20City-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
     </a>
   </div>
-
-  <img src="https://komarev.com/ghpvc/?username=gelogrammer&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </div>
 
 ## 👋 About Me
