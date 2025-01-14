@@ -126,8 +126,15 @@ Passionate Full Stack Developer with a strong focus on creating scalable and hig
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelogrammer&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gelogrammer&layout=compact&theme=tokyonight)
+  <img src="https://github-profile-trophy.vercel.app/?username=gelogrammer&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gelogrammer&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9&bg_color=0d1117" alt="Angelo John S. Calleja github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelogrammer&layout=compact&hide_border=true&title_color=70A5FD&text_color=c9d1d9&bg_color=0d1117" />
+
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gelogrammer&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelogrammer&bg_color=0d1117&color=70A5FD&line=70A5FD&point=70A5FD&area=true&hide_border=true" width="90%" />
 
 </div>
 
