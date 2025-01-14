@@ -4,10 +4,20 @@
     <strong>Full Stack Developer | Angular Specialist | Laravel Expert</strong>
   </p>
   
-  [![Facebook](https://img.shields.io/badge/Facebook-0987kll-1877F2?style=flat&logo=facebook)](https://facebook.com/0987kll)
-  [![Instagram](https://img.shields.io/badge/Instagram-@tenshio__-E4405F?style=flat&logo=instagram)](https://instagram.com/tenshio__)
-  [![Email](https://img.shields.io/badge/Email-angelojohn0987%40gmail.com-D14836?style=flat&logo=gmail)](mailto:angelojohn0987@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Legazpi%20City-4A90E2?style=flat&logo=google-maps)](https://www.google.com/maps/place/Legazpi+City)
+  <p align="center">
+    <a href="https://facebook.com/0987kll" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/tenshio__" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="mailto:angelojohn0987@gmail.com">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+    </a>
+    <a href="https://www.google.com/maps/place/Legazpi+City" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/location.svg" alt="Location" height="30" width="40" />
+    </a>
+  </p>
 </div>
 
 ## 👋 About Me
@@ -16,12 +26,18 @@ Passionate Full Stack Developer with a strong focus on creating scalable and hig
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
+<div align="center">
+
+### 💻 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,bootstrap,tailwind" alt="Frontend Skills" />
+</p>
+
 ```typescript
 const frontendSkills = {
-  frameworks: ['Angular 17+', 'Bootstrap'],
+  frameworks: ['Angular 17+', 'Bootstrap', 'TailwindCSS'],
   languages: ['TypeScript', 'JavaScript (ES6+)', 'HTML5'],
-  styling: ['SASS/SCSS', 'CSS3', 'TailwindCSS'],
+  styling: ['SASS/SCSS', 'CSS3'],
   concepts: [
     'Responsive Design',
     'SPA',
@@ -35,7 +51,11 @@ const frontendSkills = {
 }
 ```
 
-### Backend & Database
+### ⚡ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql,postgres,firebase,supabase" alt="Backend Skills" />
+</p>
+
 ```typescript
 const backendSkills = {
   frameworks: ['Laravel', 'Express.js'],
@@ -49,7 +69,11 @@ const backendSkills = {
 }
 ```
 
-### DevOps & System Administration
+### 🔧 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman" alt="DevOps Skills" />
+</p>
+
 ```typescript
 const systemSkills = {
   versionControl: ['Git', 'GitHub', 'GitLab'],
@@ -59,6 +83,8 @@ const systemSkills = {
   deployment: ['CI/CD', 'Docker', 'Cloud Platforms']
 }
 ```
+
+</div>
 
 ## 💼 Professional Focus
 
