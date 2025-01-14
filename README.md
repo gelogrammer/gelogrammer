@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:angelojohn0987@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/angelojohn0987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://www.google.com/maps/place/Legazpi+City" target="_blank">
       <img src="https://img.shields.io/badge/Legazpi%20City-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
