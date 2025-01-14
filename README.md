@@ -1,23 +1,25 @@
 <div align="center">
-  <h1>Angelo John S. Calleja</h1>
-  <p>
-    <strong>Full Stack Developer | Angular Specialist | Laravel Expert</strong>
-  </p>
-  
-  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Angelo%20John%20S.%20Calleja&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Angular%20Specialist%20|%20Laravel%20Expert&descAlignY=50&descSize=20" alt="header" />
+
+  <div style="margin: 20px 0">
     <a href="https://facebook.com/0987kll" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="https://instagram.com/tenshio__" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:angelojohn0987@gmail.com">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://drive.google.com/drive/folders/1vQVLX5lE1uNZWEqYS2F8DqY5N9lQxQiU?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
     </a>
     <a href="https://www.google.com/maps/place/Legazpi+City" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/location.svg" alt="Location" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Legazpi%20City-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
     </a>
-  </p>
+  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=gelogrammer&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </div>
 
 ## 👋 About Me
